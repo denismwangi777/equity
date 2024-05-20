@@ -1,0 +1,162 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 10vh;
+    width: 100%;
+    /* background-color: aqua; */
+}
+.navbar{
+    height: 100%;
+    width: 100%;
+    /* background-color: greenyellow; */
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.navbar button{
+    background-color: brown;
+    color: white;
+    border-radius: 6px;
+    border-radius: 3px;
+    border-radius: 6px;
+    border-radius: 3px;
+    border: none;
+}
+.hope{
+    height: 70vh;
+    width: 100%;
+}
+.clear{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.clear img{
+    height: 100%;
+    width: 90%;
+}
+
+.look{
+    height: 10vh;
+    width: 100%;
+    /* background-color:blue; */
+}
+.keep{
+    height: 100%;
+    width: 100%;
+    /* background-color: peru; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.keep button{
+    background-color: brown;
+    color: white;
+    border-radius: none;
+    border: none;
+}
+.seen{
+    height: 100%;
+    width: 100%;
+}
+.done{
+    height: 100%;
+    width: 100%;
+    /* background-color: blue; */
+    justify-content: center;
+    display: flex;
+}
+
+.tick{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.lame{
+    height: 100%;
+    width: 50%;
+    /* background-color: aqua; */
+    margin: 40px;
+}
+.lame img{
+    height: 100%;
+    width: 50%;
+}
+.luck{
+    height: 100%;
+    width: 50%;
+    /* background-color: beige; */
+}
+.luck p{
+    color: brown;
+}
+.luck h2{
+    color: brown;
+}
+.luck h3{
+    color:rgba(0, 0, 0, 0.768);
+}
+.luck button{
+    background-color: brown;
+    color: white;
+    border-radius: none;
+    border: 20px;
+}
+.ate{
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.eat{
+    height: 100%;
+    width: 50%;
+    /* background-color: blueviolet; */
+}
+.eat h1{
+    color: brown;
+}
+.eat h2{
+    color: brown;
+}
+.eat h3{
+    color: rgba(0, 0, 0, 0.714);
+}
+.eat button{
+    background-color: brown;
+    border-radius: none;
+    border: 40px;
+    color: white;
+}
+.drink{
+    height: 100%;
+    width: 50%;
+    /* background-color: chartreuse; */
+}
+.drink img{
+    display: flex;
+    justify-content: center;
+}
+.core{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: brown;
+    color: white;
+}
+.make{
+    height: 10vh;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
